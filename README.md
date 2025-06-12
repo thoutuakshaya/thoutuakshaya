@@ -9,8 +9,8 @@
 
 🌟 **About Me**
 
-Field: Engineering & Technology
-Interests: Coding 💻 | AI 🤖 | Cloud ☁️ | Creative Tech 🎨
+<p>Field: Engineering & Technology</p>
+<p> Interests: Coding 💻 | AI 🤖 | Cloud ☁️ | Creative Tech 🎨</p> 
 Goal: Build innovative tech solutions & grow continuously 🚀
 
 | Project                           | Description                                   |
