@@ -23,6 +23,6 @@ Goal: Build innovative tech solutions & grow continuously 🚀
 
 
 <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=ThoutuAkshaya&theme=radical&hide_border=true&stroke=0000&ring=FF6B81" alt="GitHub Streak Stats" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ThoutuAkshaya&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThoutuAkshaya&layout=compact&theme=tokyonight&hide_border=true" /> </p>
-Here are some ideas to get you started:
+
 
 
