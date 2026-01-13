@@ -85,7 +85,10 @@
 
 ---
 
-## 💜 Violet GitHub Energy <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=ThoutuAkshaya&theme=violet-dark&hide_border=true&ring=8B5CF6&fire=A855F7&currStreakLabel=C084FC" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ThoutuAkshaya&show_icons=true&theme=midnight-purple&hide_border=true" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThoutuAkshaya&layout=compact&theme=midnight-purple&hide_border=true" /> </p>
+## 💜 Violet GitHub Energy 
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=ThoutuAkshaya&theme=violet-dark&hide_border=true&ring=8B5CF6&fire=A855F7&currStreakLabel=C084FC" /> </p> 
+<!-- <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ThoutuAkshaya&show_icons=true&theme=midnight-purple&hide_border=true" /> </p> 
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThoutuAkshaya&layout=compact&theme=midnight-purple&hide_border=true" /> </p> -->
 
 ---
 
