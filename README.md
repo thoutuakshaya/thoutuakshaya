@@ -1,94 +1,59 @@
-<!-- ✨ GitHub Profile README | Akshaya Thoutu -->
+<!-- 💜 VIBE MODE | Akshaya Thoutu -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=180&section=header&text=Akshaya%20Thoutu&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=8B5CF6&height=200&section=header&text=Akshaya%20Thoutu&fontSize=42&fontColor=8B5CF6&animation=twinkling" />
 </p>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=520&lines=Full-Stack+Developer;AI+Explorer;Final-Year+CSE+Student;Turning+Ideas+Into+Tech" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2500&pause=700&color=8B5CF6&center=true&vCenter=true&width=520&lines=full-stack+dev;ai+builder;final-year+cse;shipping+ideas+to+reality" />
 </h3>
 
 <p align="center">
   <a href="https://portfolio-z61x.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white"/>
+    <img src="https://img.shields.io/badge/portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/thoutu-akshaya3116/">
-    <img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/linkedin-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:thoutuakshaya1@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-6D28D9?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/mail-6D28D9?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
+---
+
+## ✦ vibe check ✦
+
+> building things that **feel good**, scale clean,  
+> and leave traces on the internet.
+
+⚡ backend logic  
+⚡ ai + automation  
+⚡ clean UI / real users  
+
+---
+
+## ✦ stack energy ✦
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ThoutuAkshaya&label=Profile%20Views&color=8B5CF6&style=flat" />
+  <img src="https://skillicons.dev/icons?i=java,python,js,react,next,nodejs,express,mongodb,mysql,docker,git,github" />
 </p>
 
 ---
 
-## 🌌 Who Am I?
+## ✦ proof of work ✦
 
-✨ Final-year **B.Tech Computer Science** student  
-✨ Building **full-stack apps** & **AI-powered systems**  
-✨ Currently learning **Java Full Stack at ExcelR**  
-✨ Learns fast. Builds faster. Ships always.
-
-> *Turning ideas into scalable tech — one commit at a time.*
+💜 tech management platform (mern)  
+💜 ai health bot (python + streamlit)  
+💜 ai fest chatbot (dockerized)  
+💜 employee management system (spring boot)
 
 ---
 
-## 🧪 Things I Build
-
-💜 **Tech Management Platform (MERN)**  
-→ Role-based access, REST APIs, MongoDB, real users  
-
-💜 **AI Health Tip Bot**  
-→ Multilingual chatbot using Python & Streamlit  
-
-💜 **AI Fest Chatbot**  
-→ Dockerized AI bot deployed live for tech fest  
-
-💜 **Employee Management System**  
-→ Spring Boot + MySQL backend system  
-
----
-
-## 🛠️ Tech Stack I Love
+## ✦ aura stats ✦
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,javascript,react,nextjs,nodejs,express,mongodb,mysql,docker,git,github" />
-</p>
-
----
-
-## 🧠 Experience Snapshot
-
-🧑‍💻 **Data Management Associate — AYUR Digital Solutions (Remote)**  
-📅 Aug 2024 – Feb 2025  
-
-✔ Worked with large-scale client data  
-✔ Ensured accuracy, compliance & delivery  
-✔ Collaborated remotely with cross-functional teams  
-
----
-
-## 🏆 Hackathons & Cool Stuff
-
-⚡ **EY Techathon 6.0**  
-→ Agentic AI for Asian Paints B2B automation (n8n)
-
-⚡ **i4TS Ideathon 2024**  
-→ “NextGen Learning” digital education platform
-
-⚡ **Google Arcade 2025**  
-→ Diamond League | Cloud labs finisher
-
----
-
-## 💜 Violet GitHub Energy
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ThoutuAkshaya&theme=midnight-purple&hide_border=true&ring=8B5CF6&fire=8B5CF6&currStreakLabel=C084FC" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ThoutuAkshaya&theme=midnight-purple&hide_border=true&ring=8B5CF6&fire=8B5CF6" />
 </p>
 
 <p align="center">
@@ -101,7 +66,7 @@
 
 ---
 
-## 🐍 Contribution Flow
+## ✦ flow ✦
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
@@ -109,22 +74,10 @@
 
 ---
 
-## 🎯 Currently Leveling Up
-
-🔥 Advanced Backend & System Design  
-🔥 AI + Automation Workflows  
-🔥 Cloud & Scalable Deployments  
-
----
-
-<h3 align="center">
-  💜 Code. Create. Elevate.
-</h3>
-
 <p align="center">
-  ⭐ If this profile inspired you, star a repo!
+  <strong style="color:#8B5CF6;">code. create. elevate.</strong>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=8B5CF6&height=120&section=footer" />
 </p>
