@@ -26,7 +26,7 @@
 
 ✨ A **final-year B.Tech Computer Science student**  
 ✨ Building **full-stack apps** & **AI-powered systems**  
-✨ Loves backend logic, APIs & clean architectures  
+✨ currently learning Java full stack at ExcelR 
 ✨ Learns fast. Builds faster. Ships always.
 
 > *Turning ideas into scalable tech — one commit at a time.*
