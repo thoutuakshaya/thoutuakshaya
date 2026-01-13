@@ -1,11 +1,11 @@
 <!-- ✨ GitHub Profile README | Akshaya Thoutu -->
 
-<h1 align="center">
-  💜 Hi, I'm <span style="color:#8B5CF6;">Akshaya Thoutu</span>
-</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=180&section=header&text=Akshaya%20Thoutu&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+</p>
 
 <h3 align="center">
-  🚀 Full-Stack Developer | 🤖 AI Explorer | 💻 Final-Year CSE
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=520&lines=Full-Stack+Developer;AI+Explorer;Final-Year+CSE+Student;Turning+Ideas+Into+Tech" />
 </h3>
 
 <p align="center">
@@ -20,13 +20,17 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ThoutuAkshaya&label=Profile%20Views&color=8B5CF6&style=flat" />
+</p>
+
 ---
 
 ## 🌌 Who Am I?
 
-✨ A **final-year B.Tech Computer Science student**  
+✨ Final-year **B.Tech Computer Science** student  
 ✨ Building **full-stack apps** & **AI-powered systems**  
-✨ currently learning Java full stack at ExcelR.
+✨ Currently mastering **Java Full Stack at ExcelR**  
 ✨ Learns fast. Builds faster. Ships always.
 
 > *Turning ideas into scalable tech — one commit at a time.*
@@ -36,20 +40,20 @@
 ## 🧪 Things I Build
 
 💜 **Tech Management Platform (MERN)**  
-→ Role-based access, REST APIs, MongoDB, real users
+→ Role-based access, REST APIs, MongoDB, real users  
 
 💜 **AI Health Tip Bot**  
-→ Multilingual chatbot built with Python & Streamlit
+→ Multilingual chatbot using Python & Streamlit  
 
 💜 **AI Fest Chatbot**  
-→ Dockerized AI bot deployed live for college tech fest
+→ Dockerized AI bot deployed live for tech fest  
 
 💜 **Employee Management System**  
-→ Spring Boot + MySQL enterprise-style backend
+→ Spring Boot + MySQL backend system  
 
 ---
 
-## 🛠️ Tech Stack I Love
+## 🛠️ Tech Stack 
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,python,javascript,react,nextjs,nodejs,express,mongodb,mysql,docker,git,github" />
@@ -97,6 +101,14 @@
 
 ---
 
+## 🐍 Contribution Flow
+
+<p align="center">
+  <img src="https://github.com/ThoutuAkshaya/ThoutuAkshaya/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
 ## 🎯 Currently Leveling Up
 
 🔥 Advanced Backend & System Design  
@@ -110,5 +122,9 @@
 </h3>
 
 <p align="center">
-  ⭐ Star my repos if you like my work!
+  ⭐ If this profile inspired you, star a repo!
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=120&section=footer" />
 </p>
