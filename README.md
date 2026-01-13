@@ -53,7 +53,7 @@
 
 ---
 
-## 🛠️ Tech Stack I Love
+## 🛠️ Tech Stack 
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,python,javascript,react,nextjs,nodejs,express,mongodb,mysql,docker,git,github" />
