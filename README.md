@@ -1,84 +1,136 @@
-<!-- GitHub Profile README -->
-<h1 align="center">Hi 👋, I'm Thoutu Akshaya</h1>
-<h3 align="center">Final-Year B.Tech CSE Student | Full-Stack Developer | AI & Web Enthusiast</h3>
+# 👋 Akshaya Thoutu
+**Final-Year B.Tech Computer Science Student | Full-Stack & AI Developer**
 
-<p align="center">
-  <a href="https://github.com/ThoutuAkshaya">
-    <img src="https://komarev.com/ghpvc/?username=ThoutuAkshaya&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-  </a>
-</p>
+📍 JNTU Hyderabad, Jagitial  
+📧 thoutuakshaya1@gmail.com  
+🔗 [Portfolio](https://portfolio-z61x.vercel.app/)  
+🔗 [LinkedIn](https://www.linkedin.com/in/thoutu-akshaya3116/)  
 
 ---
 
-## 🚀 About Me
+## 🧾 Professional Summary
 
-- 🎓 Final-year **Computer Science Engineering** student  
-- 💻 Strong in **Full-Stack Web Development** & **Backend Systems**  
-- 🤖 Interested in **AI, ML, and Intelligent Applications**  
-- 🛠️ Hands-on experience through **projects, internships, and hackathons**  
-- 🌱 Currently learning **advanced backend, system design & deployment**
-- 🎯 Career Goal: Build scalable products & secure a **high-impact tech role**
+Passionate final-year **B.Tech Computer Science** student with hands-on experience in **full-stack web development** and **AI-based applications**. Proven ability to work collaboratively in remote environments, adapt quickly to new technologies, and deliver production-ready solutions. Actively seeking opportunities in **technology-driven consulting and professional services roles** where strong backend logic, problem-solving, and system understanding are valued.
+
+---
+
+## 💼 Work Experience
+
+### **Data Management Associate**  
+**AYUR Digital Solutions** — *Remote*  
+**Aug 2024 – Feb 2025**
+
+- Managed and validated large volumes of client data, ensuring **accuracy, compliance, and data integrity**
+- Coordinated with team members and senior staff to improve **workflow clarity and efficiency**
+- Conducted virtual review meetings to track progress and ensure **timely task delivery**
+- Gained exposure to **enterprise data handling practices** and professional remote collaboration
+
+---
+
+## 🚀 Projects
+
+### **Tech Management Platform (MERN Stack)**
+🔗 Source Code | Live App  
+
+- Developed a full-stack web platform for managing technical events  
+- Implemented **authentication**, **role-based access control**, and **RESTful APIs**
+- Designed backend logic and database interactions using **MongoDB**
+- Focused on **scalability, clean API design, and user experience**
+
+---
+
+### **AI Health Tip Bot**
+🔗 Source Code  
+
+- Built a Python-based AI chatbot providing **multilingual health tips**
+- Developed using **Streamlit** with API integration and structured data handling
+- Emphasized **deployment readiness** and real-world usability
+
+---
+
+### **AI Chatbot for Technical Fest**
+🔗 Live App  
+
+- Designed and deployed an AI-powered chatbot for a college technical fest
+- Built using **Python and modern ML libraries**
+- **Dockerized** the application and delivered via a Streamlit interface
+- Used in live event scenarios for interactive user engagement
+
+---
+
+## 🎓 Education
+
+### **B.Tech in Computer Science Engineering**  
+**JNTU Hyderabad, Jagitial**  
+**2022 – 2026**  
+**CGPA: 8.68 / 10**
+
+### **Intermediate (MPC)**  
+**Alphores Junior College**  
+**2020 – 2022**  
+**Score: 98.6%**
 
 ---
 
 ## 🧠 Technical Skills
 
-### 💻 Programming Languages
-- Java, Python, JavaScript, TypeScript
+**Programming Languages**  
+- Java, Python, C, JavaScript  
 
-### 🌐 Web & App Development
-- React.js, Next.js, HTML5, CSS3, Tailwind CSS  
-- Node.js, Express.js, RESTful APIs
+**Frameworks & Libraries**  
+- React.js, Next.js, Node.js, Express.js  
 
-### 🗄️ Databases
-- MySQL, MongoDB, PostgreSQL
+**Web Technologies**  
+- HTML, CSS  
 
-### ⚙️ Frameworks & Tools
-- Spring Boot, FastAPI, Streamlit  
-- Git & GitHub, Docker (Basics)  
-- VS Code, Postman
+**Databases**  
+- SQL, MySQL, MongoDB  
 
-### 🤖 AI / ML
-- Machine Learning fundamentals  
-- NLP-based chatbots  
-- Model training & evaluation (beginner–intermediate)
+**Tools**  
+- Git, GitHub, Docker, VS Code, Jupyter Notebook  
+
+**Core Concepts**  
+- REST APIs, Backend Development, SDLC, Debugging  
 
 ---
 
-## 📌 Featured Projects
+## 🏆 Hackathons & Ideathons
 
-| Project | Tech Stack | Description |
-|------|-----------|------------|
-| 🌐 **Portfolio Website** | React, Three.js | Interactive full-stack personal portfolio |
-| 🛠️ **MERN CRUD App** | MongoDB, Express, React, Node.js | Complete CRUD system with authentication |
-| 📋 **Employee Management System** | Spring Boot, MySQL | Enterprise-style backend CRUD application |
-| 💬 **AI Health FAQ Bot** | Python, Streamlit, NLP | Multilingual health chatbot (Summer of AI) |
-| 🎮 **Tic Tac Toe Game** | Python | Simple GUI-based logic game |
+- **EY Techathon 6.0**  
+  Designed an **Agentic AI solution** for Asian Paints B2B sales automation using **n8n workflows**
+
+- **i4TS Ideathon 2024**  
+  Conceptualized **“NextGen Learning”**, a digital education platform
+
+---
+
+## 📜 Certifications
+
+- Gen AI Academy — Google Cloud & Hack2Skill  
+- Oracle AI Foundations Certification  
+- AI Tools SkillUp — GeeksforGeeks  
+- Deloitte Cyber Security Virtual Experience Program  
+- SAWIT.AI Learnathon — GUVI (HCL Group)  
+- MERN Stack Development Workshop — EduWedo  
+- Java Internship — 1Stop  
+
+---
+
+## 🌱 Activities & Interests
+
+- Finishing School Training in **Java Full Stack Development** at ExcelR  
+- **Google Arcade Cohort 2025** — Diamond League participant  
+- Organized AI and technical events during college fests  
+- Chess & Sudoku — strengthening analytical and logical thinking  
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ThoutuAkshaya&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ThoutuAkshaya&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThoutuAkshaya&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ThoutuAkshaya&theme=default&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ThoutuAkshaya&show_icons=true&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ThoutuAkshaya&layout=compact&hide_border=true)
 
 ---
 
-## 🤝 Connect With Me
-
-- 💼 LinkedIn: *(add your link here)*
-- 🌐 Portfolio: *(add when ready)*
-- 📧 Email: *(optional)*
-
----
-
-⭐ *If you like my work, consider starring my repositories!*  
+⭐ *Focused on building reliable backend systems, intelligent applications, and production-ready solutions.*
