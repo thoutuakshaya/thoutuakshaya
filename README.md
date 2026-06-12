@@ -8,7 +8,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=520&lines=Full-Stack+Developer;AI+Explorer;Final-Year+CSE+Student;Turning+Ideas+Into+Tech" />
 </h3>
 
-## 🌐 Connect With Me
+## 🌐 Connect With Me (Click below to explore)
 
 <p align="center">
 
