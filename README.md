@@ -46,11 +46,11 @@
 
 ## 🌌 Who Am I?
 
-✨ Final-year **B.Tech Computer Science** student
+✨ **B.Tech Computer Science and Engineering** student
 
 ✨ Building **full-stack applications** & **AI-powered systems**
 
-✨ Currently learning **Java Full Stack at ExcelR**
+✨ Completed learning **Full Stack development at ExcelR**
 
 ✨ Passionate about solving real-world problems through technology
 
