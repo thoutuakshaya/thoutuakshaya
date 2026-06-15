@@ -87,14 +87,14 @@ Live Demo: [Tip Calculator](https://animated-toffee-e60588.netlify.app/)
 
 🔹 Provides a simple and interactive task management experience.
 
-Live Demo: [Todo List]https://chipper-phoenix-03fc94.netlify.app/
+Live Demo: [Todo List](https://chipper-phoenix-03fc94.netlify.app/)
 
 **Weather fetching**
 🔹 Fetches real-time weather data using the OpenWeatherMap API.
 
 🔹 Displays temperature, weather conditions, humidity, and other relevant details based on the searched city.
 
-Live Demo: [Weather App]https://mellifluous-beignet-ea2c33.netlify.app/
+Live Demo: [Weather App](https://mellifluous-beignet-ea2c33.netlify.app/)
 
 ---
 
