@@ -81,13 +81,6 @@
 
 Live Demo: [Tip Calculator](https://animated-toffee-e60588.netlify.app/)
 
-**Dance Event Finder — React**
-
-🔹 Built a filterable dance event platform for Telangana with live search and category filters.
-
-🔹 Used React useState, array filter/map, conditional rendering and component-based architecture.
-
-Live Demo: [Dance Events](https://transcendent-sable-5c56ef.netlify.app/)
 
 **Todo list**
 
@@ -104,6 +97,13 @@ Live Demo: [Todo List](https://chipper-phoenix-03fc94.netlify.app/)
 
 Live Demo: [Weather App](https://mellifluous-beignet-ea2c33.netlify.app/)
 
+**Dance Event Finder — React**
+
+🔹 Built a filterable dance event platform for Telangana with live search and category filters.
+
+🔹 Used React useState, array filter/map, conditional rendering and component-based architecture.
+
+Live Demo: [Dance Events](https://transcendent-sable-5c56ef.netlify.app/)
 ---
 
 ## 🛠️ Tech Stack
