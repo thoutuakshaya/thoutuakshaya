@@ -81,6 +81,14 @@
 
 Live Demo: [Tip Calculator](https://animated-toffee-e60588.netlify.app/)
 
+**Dance Event Finder — React**
+
+🔹 Built a filterable dance event platform for Telangana with live search and category filters.
+
+🔹 Used React useState, array filter/map, conditional rendering and component-based architecture.
+
+Live Demo: [Dance Events](https://transcendent-sable-5c56ef.netlify.app/)
+
 **Todo list**
 
 🔹 Allows users to add and delete tasks dynamically.
