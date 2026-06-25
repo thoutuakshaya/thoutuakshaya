@@ -72,41 +72,17 @@
 💜 **Employee Management System**  
 → Spring Boot + MySQL CRUD application
 
-## Javascript💛 React 💙
-**Tip calculator**
-
-🔹 Calculates tip amounts and total bills based on user input.
-
-🔹 Handles edge cases and validates inputs for accurate calculations.
-
-Live Demo: [Tip Calculator](https://animated-toffee-e60588.netlify.app/)
-
-
-**Todo list**
-
-🔹 Allows users to add and delete tasks dynamically.
-
-🔹 Provides a simple and interactive task management experience.
-
-Live Demo: [Todo List](https://chipper-phoenix-03fc94.netlify.app/)
-
-**Weather fetching**
-🔹 Fetches real-time weather data using the OpenWeatherMap API.
-
-🔹 Displays temperature, weather conditions, humidity, and other relevant details based on the searched city.
-
-Live Demo: [Weather App](https://mellifluous-beignet-ea2c33.netlify.app/)
-
-**Dance Event Finder — React**
-
-🔹 Built a filterable dance event platform for Telangana with live search and category filters.
-
-🔹 Used React useState, array filter/map, conditional rendering and component-based architecture.
-
-Live Demo: [Dance Events](https://transcendent-sable-5c56ef.netlify.app/)
-
 
 ---
+
+## ⚡ JavaScript & React Projects
+
+| Project | Tech | What it does | Live |
+|---|---|---|---|
+| Tip Calculator | Vanilla JS | Bill + tip calculation with validation | [Demo](https://animated-toffee-e60588.netlify.app/) |
+| Todo List | Vanilla JS | Add/delete tasks dynamically | [Demo](https://chipper-phoenix-03fc94.netlify.app/) |
+| Weather App | JS + API | Live weather using OpenWeatherMap API | [Demo](https://mellifluous-beignet-ea2c33.netlify.app/) |
+| Dance Event Finder | React | Filterable dance events platform local | [Demo](https://transcendent-sable-5c56ef.netlify.app/) |
 
 ## 🛠️ Tech Stack
 
