@@ -104,6 +104,8 @@ Live Demo: [Weather App](https://mellifluous-beignet-ea2c33.netlify.app/)
 🔹 Used React useState, array filter/map, conditional rendering and component-based architecture.
 
 Live Demo: [Dance Events](https://transcendent-sable-5c56ef.netlify.app/)
+
+
 ---
 
 ## 🛠️ Tech Stack
