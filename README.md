@@ -72,7 +72,7 @@
 💜 **Employee Management System**  
 → Spring Boot + MySQL CRUD application
 
-## Only Javascript💛
+## Javascript💛 React 💙
 **Tip calculator**
 
 🔹 Calculates tip amounts and total bills based on user input.
